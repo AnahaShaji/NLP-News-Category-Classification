@@ -111,8 +111,11 @@ The model successfully predicted the category as:
 ```text
 NLP-News-Category-Classification/
 │
+├── report
+├── screenshots
 ├── NLP_News_Category_Classification.ipynb
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ## How to Run
