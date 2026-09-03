@@ -106,6 +106,8 @@ The model successfully predicted the category as:
 
 **Sport**
 
+The notebook also includes an interactive input interface that allows users to enter or paste a news article and receive its predicted category.
+
 ## Project Structure
 
 ```text
